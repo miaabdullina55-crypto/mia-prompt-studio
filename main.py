@@ -11,7 +11,7 @@ from bot.config import TOKEN
 # SQLite (пока оставляем)
 from bot.database.db import create_tables
 
-# ВРЕМЕННАЯ ПРОВЕРКА PostgreSQL
+# PostgreSQL
 from bot.database.db_postgres import get_connection
 
 from bot.handlers.start import start
@@ -31,11 +31,14 @@ def main():
     # ======================================
     # Проверка подключения к PostgreSQL
     # ======================================
-    conn = get_connection()
-    cur = conn.cursor()
-    cur.execute("SELECT 1;")
-    print("✅ POSTGRES CONNECTED")
-    conn.close()
+    try:
+        conn = get_connection()
+        cur = conn.cursor()
+        cur.execute("SELECT 1;")
+        print("✅ POSTGRES CONNECTED")
+        conn.close()
+    except Exception as e:
+        print("❌ DB ERROR:", e)
     # ======================================
 
     # Запускаем Telegram-бота
@@ -88,4 +91,10 @@ def main():
         )
     )
 
-    print("
+    print("🤖 Бот запущен")
+
+    app.run_polling()
+
+
+if __name__ == "__main__":
+    main()
