@@ -7,7 +7,12 @@ from telegram.ext import (
 )
 
 from bot.config import TOKEN
+
+# SQLite (пока оставляем)
 from bot.database.db import create_tables
+
+# ВРЕМЕННАЯ ПРОВЕРКА PostgreSQL
+from bot.database.db_postgres import get_connection
 
 from bot.handlers.start import start
 from bot.handlers.menu import menu
@@ -20,8 +25,18 @@ from bot.handlers.premium import premium
 
 def main():
 
-    # Создаем базу данных и таблицы
+    # Создаем SQLite (пока не удаляем)
     create_tables()
+
+    # ======================================
+    # Проверка подключения к PostgreSQL
+    # ======================================
+    conn = get_connection()
+    cur = conn.cursor()
+    cur.execute("SELECT 1;")
+    print("✅ POSTGRES CONNECTED")
+    conn.close()
+    # ======================================
 
     # Запускаем Telegram-бота
     app = Application.builder().token(TOKEN).build()
@@ -73,10 +88,4 @@ def main():
         )
     )
 
-    print("✅ MIA Prompt Studio запущен!")
-
-    app.run_polling()
-
-
-if __name__ == "__main__":
-    main()
+    print("
