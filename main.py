@@ -9,10 +9,13 @@ from telegram.ext import (
 from bot.config import TOKEN
 
 # SQLite (пока оставляем)
-from bot.database.db import create_tables
+from bot.database.db import create_tables as sqlite_create_tables
 
 # PostgreSQL
-from bot.database.db_postgres import get_connection
+from bot.database.db_postgres import (
+    get_connection,
+    create_tables,
+)
 
 from bot.handlers.start import start
 from bot.handlers.menu import menu
@@ -25,8 +28,8 @@ from bot.handlers.premium import premium
 
 def main():
 
-    # Создаем SQLite (пока не удаляем)
-    create_tables()
+    # SQLite (пока оставляем)
+    sqlite_create_tables()
 
     # ======================================
     # Проверка подключения к PostgreSQL
@@ -37,6 +40,10 @@ def main():
         cur.execute("SELECT 1;")
         print("✅ POSTGRES CONNECTED")
         conn.close()
+
+        create_tables()
+        print("🧱 PostgreSQL tables ready")
+
     except Exception as e:
         print("❌ DB ERROR:", e)
     # ======================================
