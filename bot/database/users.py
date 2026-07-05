@@ -1,6 +1,6 @@
 from datetime import datetime
 
-from bot.database.db import (
+from bot.database.db_postgres import (
     add_user,
     get_user,
     update_free_left,
