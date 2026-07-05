@@ -8,14 +8,7 @@ from telegram.ext import (
 
 from bot.config import TOKEN
 
-# SQLite (пока оставляем)
-from bot.database.db import create_tables as sqlite_create_tables
-
-# PostgreSQL
-from bot.database.db_postgres import (
-    get_connection,
-    create_tables,
-)
+from bot.database.db_postgres import get_connection
 
 from bot.handlers.start import start
 from bot.handlers.menu import menu
@@ -28,11 +21,8 @@ from bot.handlers.premium import premium
 
 def main():
 
-    # SQLite (пока оставляем)
-    sqlite_create_tables()
-
     # ======================================
-    # Проверка подключения к PostgreSQL
+    # ПРОВЕРКА POSTGRESQL
     # ======================================
     try:
         conn = get_connection()
@@ -40,62 +30,31 @@ def main():
         cur.execute("SELECT 1;")
         print("✅ POSTGRES CONNECTED")
         conn.close()
-
-        create_tables()
-        print("🧱 PostgreSQL tables ready")
-
     except Exception as e:
         print("❌ DB ERROR:", e)
     # ======================================
 
-    # Запускаем Telegram-бота
     app = Application.builder().token(TOKEN).build()
 
-    # /start
+    app.add_handler(CommandHandler("start", start))
+    app.add_handler(CommandHandler("premium", premium))
+
     app.add_handler(
-        CommandHandler("start", start)
+        MessageHandler(filters.Regex("^🪄 Создать промпт$"), menu)
     )
 
-    # /premium
     app.add_handler(
-        CommandHandler("premium", premium)
+        MessageHandler(filters.Regex("^👤 Личный кабинет$"), cabinet)
     )
 
-    # Главное меню
     app.add_handler(
-        MessageHandler(
-            filters.Regex("^🪄 Создать промпт$"),
-            menu
-        )
+        MessageHandler(filters.Regex("^🎨 Выбрать фирменный стиль$"), styles)
     )
 
-    # Личный кабинет
-    app.add_handler(
-        MessageHandler(
-            filters.Regex("^👤 Личный кабинет$"),
-            cabinet
-        )
-    )
+    app.add_handler(CallbackQueryHandler(button_click))
 
-    # Выбор стиля
     app.add_handler(
-        MessageHandler(
-            filters.Regex("^🎨 Выбрать фирменный стиль$"),
-            styles
-        )
-    )
-
-    # Callback-кнопки
-    app.add_handler(
-        CallbackQueryHandler(button_click)
-    )
-
-    # Ввод текста пользователя
-    app.add_handler(
-        MessageHandler(
-            filters.TEXT & ~filters.COMMAND,
-            handle_text
-        )
+        MessageHandler(filters.TEXT & ~filters.COMMAND, handle_text)
     )
 
     print("🤖 Бот запущен")
