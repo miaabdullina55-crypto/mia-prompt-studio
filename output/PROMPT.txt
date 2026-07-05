@@ -1,0 +1,293 @@
+### TEMPLATE INFO ###
+FIELDS=7
+
+FIELDS=7 ###DRAW Create a minimalist luxury banner for the beauty
+industry in the style of a premium fashion magazine cover.
+
+STYLE
+
+-   Modern beauty editorial aesthetic.
+-   Premium beauty academy advertisement.
+-   Clean luxury design.
+-   Glossy fashion magazine composition.
+-   Minimalist layout.
+
+------------------------------------------------------------------------
+
+FORMAT
+
+-   Vertical 4:5 composition.
+
+------------------------------------------------------------------------
+
+COLOR PALETTE
+
+-   Soft shades of dark gray and black.
+-   Gold / white typography.
+-   Background with a gradient from dark gray to black.
+-   Minimal black accents.
+-   Clean premium contrast.
+-   Soft gradients only.
+
+------------------------------------------------------------------------
+
+OVERALL STYLE
+
+-   Premium beauty academy advertisement.
+-   Modern Instagram banner.
+-   Typography-focused composition.
+-   Clean multilayered composition.
+-   Luxury fashion magazine aesthetic.
+-   Elegant use of negative space.
+-   Visually expensive minimalism.
+
+------------------------------------------------------------------------
+
+BACKGROUND LAYER
+
+-   Use a smooth studio background with a soft dark gray to black
+    gradient.
+-   The background must be clean and seamless.
+-   Add soft studio gradient lighting.
+-   No heavy textures.
+-   The background should look airy and luxurious.
+-   Only very soft shadows.
+-   Luxury beauty studio atmosphere.
+
+------------------------------------------------------------------------
+
+MAIN TYPOGRAPHY LAYER
+
+-   Place a huge bold 3D word from м.
+-   Uppercase letters.
+-   Modern geometric sans-serif font.
+-   Thick bold weight.
+-   The material features ultra-smooth mirror-polished gold in a cool champagne tone, retaining the richness of genuine gold without an overly yellow appearance. The surface has a flawless jewelry-grade finish with high reflectivity, soft white highlights, and smooth light transitions that resemble professional studio lighting. Its reflections combine light champagne gold, subtle platinum-gold midtones, and deep bronze-graphite shadows, creating exceptional depth and realism. The rounded edges produce seamless mirror reflections, enhancing the impression of solid, premium cast metal with substantial weight and volume. Overall, the material conveys a refined, luxurious, and contemporary aesthetic inspired by high-end jewelry craftsmanship and luxury brand identity..
+-   Typography should occupy almost the full width.
+-   Very large, visually balanced letters.
+-   Typography must be the main compositional element.
+
+------------------------------------------------------------------------
+
+CRITICAL REQUIREMENT FOR м
+
+-   The text from м MUST NEVER be placed over the face.
+-   The word must NOT cover the eyes, eyebrows, nose, or lips.
+-   There must be clean empty space between the face and the text.
+-   The text should be positioned higher than the center of the
+    composition.
+-   The first photo should overlap approximately 25% of the word from
+    м.
+-   Heavy overlap between the figure and the text is NOT allowed.
+-   Most of the word must remain visible and easily readable.
+-   The face must remain fully visible.
+
+------------------------------------------------------------------------
+
+TYPOGRAPHY EFFECTS
+
+-   Add soft editorial shadows.
+-   Slight depth.
+-   Typography should remain clean and modern.
+-   No neon effects.
+
+------------------------------------------------------------------------
+
+GRAPHIC ELEMENT
+
+-   Add one thin diagonal line at a 35° angle across the word from
+    м.
+-   The line should dynamically intersect the typography.
+-   The line should cast a shadow onto the lower part of the word.
+-   The lower part of the word should remain in shadow.
+-   Line color: soft gray.
+-   The line should look modern and minimalist.
+-   Medium-thin thickness.
+-   The line MUST NOT cross the woman’s face.
+-   The line should pass only through the typography.
+
+------------------------------------------------------------------------
+
+ADDITIONAL TEXT LAYER
+
+-   Place a small elegant handwritten text from м beneath the
+    word from м.
+-   The text must be BELOW the face.
+-   The text must not overlap the face.
+-   Font style: luxurious handwritten calligraphy.
+-   WHITE color.
+-   Medium size.
+-   Slight overlap with the lower part of the main typography.
+
+------------------------------------------------------------------------
+
+CRITICAL REQUIREMENT FOR м
+
+-   The text MUST NEVER be placed over the face.
+-   Covering the eyes or lips is NOT allowed.
+-   The text should be positioned visually lower.
+
+------------------------------------------------------------------------
+
+ TITLE LAYER
+
+-   Place the word from м in large uppercase letters at the
+    bottom center.
+-   The font should match the style of м.
+-   The material features ultra-smooth mirror-polished gold in a cool champagne tone, retaining the richness of genuine gold without an overly yellow appearance. The surface has a flawless jewelry-grade finish with high reflectivity, soft white highlights, and smooth light transitions that resemble professional studio lighting. Its reflections combine light champagne gold, subtle platinum-gold midtones, and deep bronze-graphite shadows, creating exceptional depth and realism. The rounded edges produce seamless mirror reflections, enhancing the impression of solid, premium cast metal with substantial weight and volume. Overall, the material conveys a refined, luxurious, and contemporary aesthetic inspired by high-end jewelry craftsmanship and luxury brand identity..
+-   Slightly smaller than м.
+-   Increased letter spacing.
+-   Clean and balanced alignment.
+
+------------------------------------------------------------------------
+
+MAIN PHOTO LAYER
+
+-   Place the WOMAN’S PHOTO from the first image.
+-   DO NOT alter the woman’s photo.
+-   DO NOT modify or stylize the face. NOTHING in the photo may be
+    changed. This is important.
+-   Use a realistic photo collage.
+-   The photo should overlap approximately 25% of the word from
+    м.
+-   The figure should cover only a small portion of the letters.
+-   Most of the word must remain fully readable.
+-   The subject should remain the main focal point.
+-   The foreground must have maximum sharpness and contrast.
+-   The first image must cast a realistic fashion magazine-style shadow.
+
+------------------------------------------------------------------------
+
+CRITICAL REQUIREMENT FOR THE FIRST PHOTO
+
+-   The first photo must be shown in full.
+-   Cropping is STRICTLY PROHIBITED.
+-   Preserve the entire original photo without cropping.
+-   This is a strict technical requirement.
+-   Automatic zooming or cropping is prohibited.
+
+------------------------------------------------------------------------
+
+TOP LABEL LAYER
+
+-   THE DUPLICATE IMAGE SIZE MUST BE EXACTLY THE SAME AS IMAGE 1.
+-   Place 3 rounded rectangle labels in the upper part of the banner.
+-   The labels should be aligned horizontally.
+-   Semi-transparent white outlines.
+-   Thin borders.
+-   WHITE uppercase text inside.
+-   The labels must be larger.
+-   The text inside must be noticeably larger.
+-   The labels should look more premium and readable.
+-   Medium-large font size.
+
+------------------------------------------------------------------------
+
+CRITICAL REQUIREMENT FOR THE TOP LABELS
+
+-   The labels must NOT touch the top edge.
+-   The distance from the top edge of the banner to the labels must be
+    EXACTLY 400 PX.
+-   Clean empty space must remain above the labels.
+-   No elements may appear in this upper area.
+-   The labels should appear visually lower than the top edge.
+-   This is a strict composition rule.
+
+------------------------------------------------------------------------
+
+TEXT FOR THE TOP LABELS
+
+Left: м
+
+Center: м
+
+Right: м
+
+------------------------------------------------------------------------
+
+STYLE OF THE TOP LABELS
+
+-   Minimalist capsule-shaped elements.
+-   Rounded corners.
+-   Luxury user interface aesthetic.
+-   Thin elegant outlines.
+-   Clean spacing.
+-   Modern beauty branding style.
+
+------------------------------------------------------------------------
+
+BOTTOM LAYER WITH ROUND IMAGES
+
+-   Place exactly 2 circular images in the lower-right area.
+-   The circles must be identical in size.
+-   Perfectly aligned horizontally.
+-   The circles should slightly overlap each other.
+-   Inside them, place the images from the second and third photos.
+
+------------------------------------------------------------------------
+
+BOTTOM TEXT LAYER
+
+-   Place м centered at the bottom.
+
+Bottom Text Style
+
+-   Uppercase letters.
+-   WHITE color.
+-   Bold weight.
+-   The text size must be significantly larger.
+-   The text should be perceived as an important bottom headline.
+-   Medium letter spacing.
+-   Clean geometric sans-serif font.
+-   Center aligned.
+-   Positioned close to the bottom edge.
+-   The text should look confident and premium.
+-   The bottom text should be more noticeable and visually stronger.
+
+------------------------------------------------------------------------
+
+COMPOSITION RULES
+
+-   All elements must be visually balanced.
+-   Typography should interact with the photographs.
+-   Maintain the structure of a fashion magazine cover.
+-   Preserve clean premium spacing.
+-   Do not overload the composition.
+-   Maintain a strong visual focal point.
+
+------------------------------------------------------------------------
+
+LIGHTING
+
+-   Soft studio lighting.
+-   Delicate highlights.
+-   Luxury beauty advertising campaign atmosphere.
+-   No harsh shadows.
+-   Soft glossy reflections are allowed.
+
+------------------------------------------------------------------------
+
+STRICTLY PROHIBITED
+
+-   Bright colors.
+-   Overloaded composition.
+-   Unnecessary decorative elements.
+-   Random icons.
+-   Neon glow.
+-   Heavy textures.
+-   Cheap typography.
+-   Cartoon effects.
+-   Distorted anatomy.
+-   Blurry images.
+-   Asymmetrical circles.
+-   Harsh shadows.
+-   Cheap advertising style.
+
+------------------------------------------------------------------------
+
+FINAL RESULT
+
+The final image should look like a premium beauty academy advertisement
+combined with the aesthetic of a Vogue fashion magazine
+cover—minimalist, elegant, multilayered, modern, clean, and visually
+luxurious.
