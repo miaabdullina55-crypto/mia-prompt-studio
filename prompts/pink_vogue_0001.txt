@@ -312,15 +312,7 @@ Minimalist appearance.
 
 ------------------------------------------------------------------------
 
-LOWER INFORMATION BLOCKS WITH {{TEXT6}}
-
-The lower part contains two symmetrical information blocks.
-
-One is positioned on the left.
-
-The other is positioned on the right.
-
-Both blocks are perfectly aligned.
+AT THE BOTTOM OF THE BOARD THERE IS TEXT WITH {{TEXT6}}. OR ICONS TO THE BANNER FROM YOURSELF, THIS IS IMPORTANT.
 
 ------------------------------------------------------------------------
 
