@@ -69,6 +69,15 @@ async def handle_text(update: Update, context: ContextTypes.DEFAULT_TYPE):
         "premium_luxury_0001"
     )
 
+    # ==========================================
+    # ДИАГНОСТИКА
+    # ==========================================
+    print("=" * 60)
+    print("TEMPLATE =", template)
+    print("USER_DATA =", context.user_data)
+    print("=" * 60)
+    # ==========================================
+
     fields_count = get_fields_count(template)
 
     errors = []
