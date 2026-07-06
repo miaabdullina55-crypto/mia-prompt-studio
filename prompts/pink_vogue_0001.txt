@@ -1,0 +1,423 @@
+### TEMPLATE INFO ###
+FIELDS=6
+
+DRAW CREATE A PHOTOREALISTIC PREMIUM BEAUTY ADVERTISING BANNER IN THE
+STYLE OF LUXURY FASHION EDITORIAL, VOGUE BEAUTY, HARPER’S BAZAAR BEAUTY,
+A MODERN MAGAZINE COVER, AND PREMIUM ADVERTISING.**
+
+Vertical 4:5 format.
+
+Ultra-photorealistic.
+
+Premium beauty advertising.
+
+Luxury editorial aesthetic.
+
+Professional commercial beauty photography.
+
+Fashion magazine cover style.
+
+Minimalist composition.
+
+Dark luxury aesthetic.
+
+No illustrative style.
+
+No CGI.
+
+No painterly effect.
+
+No artificial beauty filters.
+
+Premium realistic skin texture.
+
+.
+
+Clean typography.
+
+Premium branding.
+
+Modern graphic design.
+
+Editorial magazine composition.
+
+The entire banner looks like a premium advertising campaign for a luxury
+beauty academy.
+
+------------------------------------------------------------------------
+
+OVERALL COMPOSITION
+
+The composition is built along the vertical central axis.
+
+The layout is symmetrical.
+
+The entire composition is built around two large playing cards
+positioned behind the main typography.
+
+The cards create the primary visual hierarchy.
+
+The typography occupies the central part of the composition.
+
+All elements are placed on a black textured background.
+
+No unnecessary decorative elements.
+
+No visual imbalance.
+
+A large amount of negative space remains around the main headline.
+
+Each object has a clear visual hierarchy.
+
+The design looks modern, expensive, stylish, and luxurious.
+
+------------------------------------------------------------------------
+
+BACKGROUND
+
+Pure black background.
+
+Matte surface.
+
+No glossy reflections.
+
+Very subtle aged texture.
+
+Random white scratches.
+
+Small white dots.
+
+Small paint splatters.
+
+Very thin diagonal abstract brush strokes.
+
+Light graphic noise.
+
+The texture remains very delicate.
+
+The background never distracts attention from the composition.
+
+------------------------------------------------------------------------
+
+TOP TEXT WITH {{TEXT1}}.
+
+Positioned in the center.
+
+Located close to the top edge.
+
+Bold geometric sans-serif font.
+
+Lowercase letters.
+
+Pure white color.
+
+Thin white horizontal lines extend to the left and right from the text.
+
+Do not draw the logo, this is important.
+
+------------------------------------------------------------------------
+
+PLAYING CARDS
+
+Two large playing cards occupy the upper half of the composition.
+
+Rounded corners.
+
+Small corner radius.
+
+Premium matte white surface.
+
+No texture.
+
+Soft studio lighting.
+
+Subtle gray darkening around the edges.
+
+The cards resemble premium casino playing cards.
+
+------------------------------------------------------------------------
+
+LEFT CARD
+
+Positioned slightly left of center.
+
+Almost vertical.
+
+Very slight clockwise rotation.
+
+Occupies approximately 55% of the image height.
+
+Located behind the typography.
+
+It is the main visual object.
+
+------------------------------------------------------------------------
+
+PORTRAIT ON THE LEFT CARD
+
+Depict the woman from Image1. Do not change the woman’s appearance, this
+is important.
+
+Luxury beauty model.
+
+Portrait occupies most of the card.
+
+------------------------------------------------------------------------
+
+RIGHT CARD
+
+Positioned behind the left card.
+
+Shifted slightly to the right.
+
+Tilted counterclockwise.
+
+Partially hidden behind the first card.
+
+Approximately 40–45% of the card is visible.
+
+Creates a sense of depth.
+
+------------------------------------------------------------------------
+
+IMAGE ON THE RIGHT CARD
+
+Use the image from IMAGE2.
+
+.
+
+------------------------------------------------------------------------
+
+PLAYING CARD SYMBOLS
+
+Both cards feature black Ace of Spades symbols.
+
+A large elegant serif letter “T” is placed in the upper left corner.
+
+Below it is a black spade symbol.
+
+The same symbols are present in the opposite lower corners.
+
+Premium typography in the style of casino playing cards.
+
+------------------------------------------------------------------------
+
+TYPOGRAPHY
+
+Typography is the main visual accent.
+
+Positioned over both cards.
+
+Centered.
+
+Occupies almost the entire width of the composition.
+
+Large multilayer composition.
+
+------------------------------------------------------------------------
+
+MAIN HEADLINE
+
+Large word with {{TEXT2}}:
+
+Bold geometric sans-serif font.
+
+Maximum font weight.
+
+Bright saturated pink color.
+
+Flat fill.
+
+No outline.
+
+No bevels.
+
+No metallic texture.
+
+No gradient.
+
+Large letter spacing.
+
+Perfectly centered.
+
+------------------------------------------------------------------------
+
+SECOND HEADLINE
+
+Large word with {{TEXT3}}:
+
+Significantly larger than the word with {{TEXT2}}.
+
+Occupies almost the entire width of the banner.
+
+Bold geometric sans-serif font.
+
+Maximum font weight.
+
+Bright saturated pink color.
+
+The lower part smoothly transitions to white using a vertical gradient.
+
+The upper half remains saturated pink.
+
+The lower half gradually becomes white.
+
+No outline.
+
+No bevels.
+
+No texture.
+
+Perfectly sharp edges.
+
+Positioned directly below the word with {{TEXT2}}. {{TEXT2}} is behind
+{{TEXT3}}. {{TEXT3}} partially overlaps {{TEXT2}}. A shadow from
+{{TEXT3}} falls onto {{TEXT2}}, creating a sense of volume and
+multilayer depth. {{TEXT2}} and {{TEXT3}} are 3D letters. They are made
+of plastic.
+
+------------------------------------------------------------------------
+
+White inscription with {{TEXT4}}.
+
+Elegant handwritten marker-style script.
+
+Positioned between the words {{TEXT2}} and {{TEXT3}}.
+
+Overlaps both words.
+
+Thin smooth strokes.
+
+Luxury fashion branding style.
+
+Looks like a real signature.
+
+Pure white color.
+
+------------------------------------------------------------------------
+
+SUBHEADLINE WITH {{TEXT5}}
+
+Large white word written in lowercase letters.
+
+Thin modern sans-serif font.
+
+Very large letter spacing.
+
+Centered.
+
+Occupies almost the entire width of the composition.
+
+Minimalist appearance.
+
+------------------------------------------------------------------------
+
+LOWER INFORMATION BLOCKS WITH {{TEXT6}}
+
+The lower part contains two symmetrical information blocks.
+
+One is positioned on the left.
+
+The other is positioned on the right.
+
+Both blocks are perfectly aligned.
+
+------------------------------------------------------------------------
+
+LISTS
+
+Each line begins with a small white spade symbol.
+
+Bold white sans-serif font.
+
+Professional educational list layout.
+
+Equal spacing.
+
+Perfect alignment.
+
+Clean modern typography.
+
+------------------------------------------------------------------------
+
+LIGHTING
+
+Professional commercial beauty lighting.
+
+Large softbox.
+
+Soft frontal light.
+
+Delicate fill light.
+
+Soft rim light.
+
+Very soft shadows.
+
+No harsh contrast.
+
+Natural luxury editorial lighting.
+
+------------------------------------------------------------------------
+
+COLOR PALETTE
+
+Deep black.
+
+Pure white.
+
+Bright saturated pink.
+
+Soft gray shadows.
+
+Minimalist color palette.
+
+High contrast.
+
+Perfect luxury balance.
+
+------------------------------------------------------------------------
+
+DEPTH
+
+The cards create multiple visual layers.
+
+The typography overlaps the cards.
+
+The background remains separated.
+
+Soft realistic shadows.
+
+Natural perspective.
+
+A subtle sense of spatial depth.
+
+------------------------------------------------------------------------
+
+FINAL STYLE
+
+Luxury beauty editorial.
+
+Premium advertising for permanent makeup education.
+
+Fashion magazine cover.
+
+Vogue Beauty aesthetic.
+
+Harper’s Bazaar Beauty aesthetic.
+
+Luxury typography.
+
+Minimalist composition.
+
+Modern graphic design.
+
+Premium commercial beauty advertising.
+
+Ultra-photorealistic.
+
+8K quality.
+
+Maximum sharp details.
+
+Premium appearance ready for professional printing.
