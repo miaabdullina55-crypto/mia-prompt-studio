@@ -312,25 +312,10 @@ Minimalist appearance.DO NOT ADD ANY ADDITIONAL TEXT OR ICONS TO THE BANNER FROM
 
 ------------------------------------------------------------------------
 
-AT THE BOTTOM OF THE BOARD THERE IS TEXT WITH {{TEXT6}}. DO NOT ADD ANY ADDITIONAL TEXT OR ICONS TO THE BANNER FROM YOURSELF. THIS IS VERY IMPORTANT.
+AT THE BOTTOM OF THE BOARD THERE IS TEXT WITH {{TEXT6}}. DO NOT ADD ANY ADDITIONAL TEXT OR ICONS TO THE BANNER FROM YOURSELF. THIS IS VERY IMPORTANT.Each line begins with a small white spade symbol.
 
 ------------------------------------------------------------------------
 
-LISTS
-
-Each line begins with a small white spade symbol.
-
-Bold white sans-serif font.
-
-Professional educational list layout.
-
-Equal spacing.
-
-Perfect alignment.
-
-Clean modern typography.
-
-------------------------------------------------------------------------
 
 LIGHTING
 
