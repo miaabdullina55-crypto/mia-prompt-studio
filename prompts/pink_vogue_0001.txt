@@ -308,11 +308,11 @@ Centered.
 
 Occupies almost the entire width of the composition.
 
-Minimalist appearance.
+Minimalist appearance.DO NOT ADD ANY ADDITIONAL TEXT OR ICONS TO THE BANNER FROM YOURSELF. THIS IS VERY IMPORTANT.
 
 ------------------------------------------------------------------------
 
-AT THE BOTTOM OF THE BOARD THERE IS TEXT WITH {{TEXT6}}. OR ICONS TO THE BANNER FROM YOURSELF, THIS IS IMPORTANT.
+AT THE BOTTOM OF THE BOARD THERE IS TEXT WITH {{TEXT6}}. DO NOT ADD ANY ADDITIONAL TEXT OR ICONS TO THE BANNER FROM YOURSELF. THIS IS VERY IMPORTANT.
 
 ------------------------------------------------------------------------
 
