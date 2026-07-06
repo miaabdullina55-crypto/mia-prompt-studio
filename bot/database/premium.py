@@ -1,6 +1,6 @@
 from datetime import datetime, timedelta
 
-from bot.database.db import (
+from bot.database.db_postgres import (
     get_user,
     update_paid_until,
 )
