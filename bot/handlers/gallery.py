@@ -7,6 +7,9 @@ async def show_gallery(query, style):
 
     folder = Path("images/banners")
 
+    print("STYLE =", repr(style))
+    print("FOUND =", [p.name for p in folder.glob(f"{style}_*.jpg")])
+
     banners = sorted(
         folder.glob(f"{style}_*.jpg")
     )
