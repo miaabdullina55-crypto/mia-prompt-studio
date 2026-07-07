@@ -1,0 +1,124 @@
+### TEMPLATE INFO ###
+FIELDS=4
+
+DRAW CREATE A PHOTOREALISTIC BEAUTY ADVERTISING BANNER IN THE STYLE OF
+FASHION EDITORIAL AND PREMIUM .
+
+Square format 4:5, THIS IS IMPORTANT.THE BANNER DOES NOT HAVE TO BE
+SQUARE, THIS IS IMPORTANT.THE BANNER DOES NOT HAVE TO BE 16:9, THIS IS
+IMPORTANT
+
+Pure white background without texture.
+
+Main color palette:
+
+-   bright saturated pink;
+
+-   white;
+
+-   black;
+
+-   small metallic silver accents.
+
+Banner style: luxury beauty, fashion editorial, magazine cover,
+professional masterclass advertisement, Vogue aesthetic, Harper’s Bazaar
+aesthetic, premium beauty education.
+
+ABSOLUTE COMPOSITION LOCK
+
+The composition is strictly multi-layered.
+
+The upper part of the banner is occupied by a large headline and {{TEXT1}}.
+
+Below the headline are three images from image 2 and image 3, select the
+last image yourself so that it matches the meaning.
+
+In the lower part there is the woman from image 1.
+
+Do not change the composition.
+
+Do not change the number of objects.
+
+Do not change their placement.
+
+Do not change the scale of the main elements.
+
+TOP TITLE
+
+In the upper part there is very large black text from {{TEXT1}}:
+
+Font: bold, modern, geometric, sans-serif.
+
+The text occupies almost the entire width of the layout.
+
+Under the right part of the headline there is a small text from {{TEXT2}}:
+
+Small black font.
+
+Behind the headline there are bright pink paint splashes.
+
+The splashes spread chaotically to the right and upward.
+
+The splashes look like liquid pink paint.
+
+Below the headline there are three large photographs from image 2 and
+image 3.
+
+The photographs are arranged horizontally. THE PHOTOGRAPHS HAVE
+MEDIUM-SIZED WHITE BORDERS.
+
+The middle photograph is slightly higher than the others.
+
+The photographs slightly overlap each other. Soft shadows fall from the
+photographs. Frame 1 and frame 2 are fastened together with two pins.
+Frame 3 and frame 2 are fastened together with one pin.In the lower
+central part of the banner there is the woman from image 1. THE WOMAN
+OCCUPIES 40 PERCENT OF THE FRAME HEIGHT. THE WOMAN SLIGHTLY OVERLAPS THE
+PHOTOGRAPH ABOVE WITH HER HEAD. THIS CREATES A MULTI-LAYERED EFFECT.
+
+The woman fits completely inside the frame.
+
+To the left of the model there is a small text from {{TEXT3}}:
+
+Black color.
+
+On the right there is text from {{TEXT4}}:
+
+Black color.
+
+DECORATIVE ELEMENTS
+
+Pink paint splashes are scattered throughout the banner.
+
+There are especially many splashes in the lower left corner.
+
+The splashes create a sense of movement.
+
+In the lower right corner there is a folded paper corner effect. UNDER
+THE FOLDED PAPER THERE IS A PINK SHEET.
+
+The effect looks realistic.
+
+LIGHTING
+
+Bright studio lighting.
+
+Soft shadows.
+
+High detail.
+
+Professional print-ready production.
+
+Glossy magazine aesthetic.
+
+Photorealism.
+
+Ultra detailed.
+
+Luxury beauty advertising.
+
+Premium poster.
+
+Magazine cover quality.
+
+8K.

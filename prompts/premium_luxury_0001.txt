@@ -1,0 +1,129 @@
+### TEMPLATE INFO ###
+FIELDS=5
+
+DRAW Ultra-realistic premium advertising banner in the beauty industry
+in the style of a luxury editorial cosmetic campaign. Modern aesthetic
+of a premium.
+advertising. The final design must look like an expensive international
+advertising campaign for a luxury  brand.
+
+CRITICAL — STRICT ORIGINAL PHOTO LOCK: Use the ORIGINAL woman from Image
+1 WITHOUT changing her appearance.
+
+STRICTLY PRESERVE: • the exact same face • the exact same facial
+structure • the exact same eyes • the exact same eyebrows • the exact
+same lips • the exact same nose • the exact same jawline • the exact
+same makeup • the exact same hairstyle • the exact same hair direction •
+the exact same pose • the exact same head tilt • the exact same camera
+angle • the exact same perspective • the exact same shoulder position •
+the exact same body angle • the exact same neckline • the exact same
+clothing • the exact same jewelry • the exact same lighting direction •
+the exact same crop • the exact same proportions
+
+ABSOLUTELY FORBIDDEN: • changing the face • changing anatomy • changing
+perspective • changing pose • changing camera angle • changing clothing
+• changing jewelry • changing hairstyle • AI reinterpretation • beauty
+redesign • stylization • repainting • portrait variation • changing head
+position • changing frame proportions
+
+IMPORTANT CORRECTION: THERE MUST BE NO REFLECTION OF THE WOMAN ANYWHERE
+IN THE BANNER.
+
+DO NOT CREATE: • mirrored reflections • glossy portrait reflections •
+glass reflections • reflective duplicate portraits • translucent
+portraits • background portrait duplicates • ghost reflections • blurred
+duplicate faces
+
+ONLY ONE WOMAN must appear in the entire composition.
+
+The background must remain clean, luxurious, dark, and minimalistic
+WITHOUT any reflective portrait elements.
+
+FORMAT: Vertical banner. Aspect ratio 4:5.
+
+GENERAL STYLE: Dark luxury beauty advertising. Minimalistic yet visually
+powerful composition. Premium editorial lighting. Deep shadows with warm
+glossy highlights.
+
+BACKGROUND: Very dark black-brown gradient studio background. Soft
+cinematic lighting. Subtle glossy texture. Luxury editorial atmosphere.
+No reflections. No duplicated portraits.
+
+MAIN COMPOSITION: The main portrait is positioned slightly left of
+center. The portrait occupies approximately 55–60% of the banner height.
+Crop from chest level upward.
+
+TOP HEADLINE: Place elegant serif typography in the upper central area.
+
+Take TEXT from {{TEXT1}}. Below it place text from {{TEXT2}}.
+
+FONT: • thin luxury serif • warm gold-beige metallic tone • elegant
+spacing • premium cosmetic branding aesthetic
+
+LEFT VERTICAL TEXT from {{TEXT3}}: Large vertical typography along the left
+edge in WHITE COLOR.
+
+25 pixels to the right place smaller vertical typography in RED COLOR
+using text from {{TEXT4}}.
+
+REQUIREMENTS: • bold clean sans-serif • main text in white • additional
+muted warm-red text • clean luxury spacing
+
+BOTTOM PRODUCT AREA: Use the products from image 2 and image 3, plus two
+additional similar products placed on white geometric podium blocks.
+
+PODIUMS: • white matte cubes • soft studio shadows • luxury minimalistic
+product photography aesthetic
+
+SMOKE: Very light cinematic smoke/fog around the lower central product
+area.
+
+BOTTOM RIGHT AREA: Two glossy black smartphones positioned diagonally.
+
+IMPORTANT SMARTPHONE RULE:
+
+The smartphones MUST remain STRICTLY HORIZONTAL.
+
+NOT vertical. NOT portrait orientation. NOT upright phones.
+
+ONLY: • horizontal landscape smartphones • glossy cinematic display
+panels • wide cinematic composition
+
+Both smartphones: • positioned horizontally • partially overlapping each
+other • diagonal composition while remaining horizontal • lower
+smartphone slightly underneath the upper smartphone
+
+The screens inside the smartphones must ALSO remain HORIZONTAL.
+
+Choose macro photography inside the screens based on {{TEXT5}}.
+
+THE IMAGES INSIDE THE SMARTPHONES MUST REMAIN SIMPLE.
+
+NO CARS AND NO EXTRA OBJECTS. DO NOT WRITE ANY TEXT INSIDE THE
+SMARTPHONE SCREENS.
+
+SMARTPHONES: • premium glossy black frames • realistic reflections •
+luxury product-lighting aesthetic • expensive editorial highlights
+
+TEXT ABOVE THE SMARTPHONES: Use text from {{TEXT5}}.
+
+LARGE FONT: • white clean sans-serif • elegant spacing • centered
+composition
+
+ADDITIONAL ELEMENT: A black glossy leather glove interacting with the
+smartphones.
+
+The glove must hold a horizontal smartphone.
+
+LIGHTING: • cinematic beauty lighting • luxury glossy highlights • soft
+warm reflections • controlled shadows • expensive editorial contrast
+
+COLOR PALETTE: • black • dark brown • warm beige • golden accents •
+muted warm red • white typography
+
+Don’t draw the logo, it’s important
+
+FINAL RESULT: The final banner must look like an expensive international
+luxury beauty advertising campaign with perfect editorial composition.
+
+

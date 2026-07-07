@@ -1,0 +1,289 @@
+### TEMPLATE INFO ###
+
+FIELDS=4 
+
+Draw a vertical premium banner .
+
+Aspect ratio 4:5.
+
+Size 1080×1350 px.
+
+Premium advertising design for a beauty salon.
+
+Luxury beauty brand aesthetic.
+
+Luxury editorial style.
+
+Clean composition with strict visual hierarchy.
+
+Photorealism.
+
+High detail.
+
+Commercial advertising graphics.
+
+Premium social media banner.
+
+COLOR PALETTE
+
+Deep black background.
+
+Dark graphite gradients.
+
+Warm metallic gold.
+
+Champagne gold.
+
+Soft beige skin tones.
+
+White typography.
+
+Glossy gold highlights.
+
+No bright colors.
+
+No neon shades.
+
+BACKGROUND
+
+The background is made of deep matte black except for the upper section.
+
+The transition between image 2 and the black background is soft and
+smooth.
+
+The black background begins only below image 2.
+
+Soft vignette around the edges.
+
+Subtle atmospheric glow.
+
+No textures.
+
+No patterns.
+
+No marble.
+
+No glitter.
+
+No decorative elements.
+
+Only a clean luxury background.
+
+The top 30% of the layout consists entirely of image 2.
+
+Image 2 is stretched across the full width of the layout.
+
+Luxury beauty editorial style.
+
+
+
+VERTICAL TEXT ON THE RIGHT from {{TEXT3}}
+
+Along the right edge is a huge inscription:
+
+Letters arranged vertically.
+
+Text height about 90% of the image.
+
+Volumetric gold letters.
+
+Polished metal.
+
+Mirror reflections.
+
+Luxury fashion typography.
+
+Large spacing between letters.
+
+Part of the letters extends beyond the safe area of the layout.
+
+Expensive fashion magazine style.
+
+BLOCK
+
+The main information is located inside a large rectangle.
+
+The rectangle is positioned on the left center.
+
+Occupies about 65% of the layout width.
+
+Occupies about 60% of the layout height.
+
+Thin metallic gold frame.
+
+Frame thickness 2–3 px.
+
+Inside:
+
+Semi-transparent black glass panel.
+
+Luxury glass effect.
+
+Slight transparency.
+
+Soft glow along the frame contour.
+
+At the top of the block is {{TEXT1}}.
+
+Elegant handwritten calligraphy.
+
+Metallic gold color.
+
+Thin graceful lines.
+
+Below {{TEXT1}} is {{TEXT2}} in elegant premium thin typography.
+
+Below {{TEXT2}} is {{TEXT4}}.
+
+{{TEXT4}} TYPOGRAPHY
+
+Service headings:
+
+Large white letters.
+
+Modern minimalist font.
+
+Premium style.
+
+Service descriptions:
+
+Medium text size.
+
+White color.
+
+Prices aligned to the right.
+
+Perfect price column.
+
+Lots of breathing room between lines.
+
+Luxury magazine design.
+
+All other text white.
+
+Premium accent element.
+
+MODEL
+
+Full-body woman on the right.
+
+Partially overlaps the price block.
+
+Occupies about 70% of the layout height.
+
+COMPOSITION DEPTH
+
+Foreground:
+
+Woman from image 1 positioned in the lower right. Don't change or add to the woman's appearance in image 1. It's important.
+
+Midground:
+
+Price block.
+
+This block must be behind the woman, this is important.
+
+Background:
+
+Image 2.
+
+Front right foreground:
+
+Model and gold vertical text.
+
+Expensive multi-layered composition.
+
+Professional advertising design.
+
+QUALITY
+
+Ultra realism.
+
+Photorealism.
+
+Luxury beauty editorial.
+
+Premium commercial retouching.
+
+Fashion magazine cover quality.
+
+8K detail.
+
+Luxury branded style.
+
+Perfect sharpness.
+
+Luxury beauty industry advertising.
+
+NEGATIVE PROMPT
+
+No cartoon style.
+
+No illustrations.
+
+No low quality.
+
+No excessive details.
+
+No bright colors.
+
+No flowers or plants.
+
+No marble textures.
+
+No neon.
+
+No watercolor.
+
+No vintage style.
+
+No cheap decorative elements.
+
+No extra text.
+
+No random objects.
+
+No plastic skin.
+
+No distorted face or body proportions.
+
+Do not write any other text, this is important.
+
+Do not create a logo, this is important.
+
+Model occupies the area:
+
+X = 58–100% of layout width
+
+Y = 32–100% of layout height
+
+It is forbidden to place any part of the head above Y=32%.
+
+The model’s head must be at the level of the upper edge of the price
+block or lower.
+
+Top of the head no higher than 35% of the layout height.
+
+The model is visually lowered by 15–20% compared to the standard fashion
+portrait position.
+
+Scale model to 70% of original size.
+
+The model occupies no more than 50% of the layout height.
+
+The model height is smaller than the  block height.
+
+The price block is the dominant object of the composition.
+
+No cheap template design.
+
+THE FIRST LETTER OF {{TEXT3}} MUST BE ON TOP, THE LAST LETTER OF
+{{TEXT3}} MUST BE ON BOTTOM, THIS IS IMPORTANT.
+
+{{TEXT3}} is a vertical headline positioned on the right edge. Reading
+direction: TOP → BOTTOM. The viewer reads the text from the top of the
+image down to the bottom of the image. The text must not be inverted.
+The first character touches the upper part of the layout. The last
+character touches the lower part of the layout.
+
+There should be no other text.
