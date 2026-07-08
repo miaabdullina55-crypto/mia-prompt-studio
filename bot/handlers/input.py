@@ -17,6 +17,11 @@ from bot.handlers.instruction import load_instruction
 from bot.database.users import (
     has_free_prompts,
     decrease_free_prompts,
+    get_free_prompts,
+)
+
+from bot.database.premium import (
+    is_premium,
 )
 
 from bot.config import (
@@ -45,18 +50,24 @@ async def handle_text(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user_id = update.effective_user.id
     user_text = update.message.text
 
-    # Проверяем остаток бесплатных промптов
-    if not has_free_prompts(user_id):
+    print("=" * 50)
+    print("USER ID:", user_id)
+    print("IS PREMIUM:", is_premium(user_id))
 
-        await update.message.reply_text(
-            "🎁 Бесплатные промпты закончились.\n\n"
-            "Для продления доступа напишите:\n\n"
-            f"👉 {CONTACT_USERNAME}\n\n"
-            f"Стоимость доступа:\n"
-            f"{SUBSCRIPTION_PRICE} / {SUBSCRIPTION_PERIOD}"
-        )
+    # Проверяем бесплатные промпты только у пользователей БЕЗ Premium
+    if not is_premium(user_id):
 
-        return
+        if not has_free_prompts(user_id):
+
+            await update.message.reply_text(
+                "🎁 Бесплатные промпты закончились.\n\n"
+                "Для продления доступа напишите:\n\n"
+                f"👉 {CONTACT_USERNAME}\n\n"
+                f"Стоимость доступа:\n"
+                f"{SUBSCRIPTION_PRICE} / {SUBSCRIPTION_PERIOD}"
+            )
+
+            return
 
     parsed = parse_user_text(user_text)
 
@@ -107,8 +118,11 @@ async def handle_text(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     save_prompt(prompt)
 
-    # Списываем один бесплатный промпт
-    free_left = decrease_free_prompts(user_id)
+    # Premium не расходует бесплатные промпты
+    if is_premium(user_id):
+        free_left = get_free_prompts(user_id)
+    else:
+        free_left = decrease_free_prompts(user_id)
 
     instruction = load_instruction(template)
 
@@ -129,7 +143,14 @@ async def handle_text(update: Update, context: ContextTypes.DEFAULT_TYPE):
         ]
     )
 
-    if free_left > 0:
+    if is_premium(user_id):
+
+        text = (
+            f"{instruction}\n\n"
+            "💎 Premium активен"
+        )
+
+    elif free_left > 0:
 
         text = (
             f"{instruction}\n\n"

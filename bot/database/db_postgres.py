@@ -81,6 +81,9 @@ def add_user(
 
 def get_user(telegram_id):
 
+    print("=" * 60)
+    print("GET USER:", telegram_id)
+
     conn = get_connection()
     cur = conn.cursor()
 
@@ -94,6 +97,8 @@ def get_user(telegram_id):
     )
 
     user = cur.fetchone()
+
+    print("RESULT:", user)
 
     conn.close()
 
