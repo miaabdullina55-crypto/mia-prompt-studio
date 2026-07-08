@@ -55,6 +55,6 @@ async def show_gallery(query, style):
     )
 
     await query.message.reply_text(
-        "Конец списка шаблонов.",
+        "\u200b",
         reply_markup=back_keyboard,
     )

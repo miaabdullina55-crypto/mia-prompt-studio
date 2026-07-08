@@ -1,7 +1,6 @@
 from telegram import ReplyKeyboardMarkup, Update
 from telegram.ext import ContextTypes
 
-from bot.config import FREE_PROMPTS
 from bot.database.users import register_user
 
 
@@ -37,8 +36,6 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
         "✨ Прайсы\n"
         "✨ Оформление ВКонтакте\n"
         "✨ Instagram\n\n"
-
-        f"🎁 Вам доступны {FREE_PROMPTS} бесплатных промпта.\n\n"
 
         "👇 Начнём?",
 
